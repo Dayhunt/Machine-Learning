@@ -103,4 +103,4 @@ The classification models were evaluated on the test dataset. Results are sorted
 
 This case study demonstrates that **ensemble boosting techniques outperform traditional classifiers** in complex, real-world classification problems. By leveraging multiple evaluation metrics instead of relying solely on accuracy, a more reliable and interpretable model selection process was achieved.
 
-> 📌 **Gradient Boosting is recommended for deployment** due to its consistent superiority across all critical evaluation metrics.
+> **Gradient Boosting is recommended for deployment** due to its consistent superiority across all critical evaluation metrics.
